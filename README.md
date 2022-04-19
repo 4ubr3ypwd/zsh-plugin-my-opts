@@ -16,7 +16,7 @@ antigen bundle aubreypwd/zsh-plugin-my-opts
 Install the package on `master`:
 
 ```bash
-antigen bundle aubreypwd/zsh-plugin-my-opts
+antigen bundle ssh://git@github.com/aubreypwd/zsh-plugin-my-opts
 ```
 
 ...and contribute upstream by working in `$HOME/.antigen/bundles/aubreypwd/zsh-plugin-my-opts`.
