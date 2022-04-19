@@ -13,5 +13,3 @@
  ##
 unsetopt inc_append_history
 unsetopt share_history
-
-setopt no_monitor # For commands below eding in &, do not report done when running in background.
