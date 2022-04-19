@@ -1,24 +1,14 @@
-# ``
+# My `opt`'s
 
-Description
+My `setopt` and `unsetopt`
 
-## Usage
-
-```bash
-```
-
-## Requires
-
-- `...`<sup>*</sup>
-
-<sup>*</sup> If using [homebrew](https://brew.sh) on macOS, these will automatically be installed.
 
 ## Install
 
 Using [antigen](https://github.com/zsh-users/antigen):
 
 ```bash
-antigen bundle aubreypwd/zsh-plugin-NAME@1.0.0
+antigen bundle aubreypwd/zsh-plugin-my-opts
 ```
 
 ## Development
@@ -26,15 +16,7 @@ antigen bundle aubreypwd/zsh-plugin-NAME@1.0.0
 Install the package on `master`:
 
 ```bash
-antigen bundle aubreypwd/zsh-plugin-NAME
+antigen bundle aubreypwd/zsh-plugin-my-opts
 ```
 
-...and contribute upstream by working in `$HOME/.antigen/bundles/aubreypwd/zsh-plugin-NAME`.
-
----
-
-## Changelog
-
-### 1.0.0
-
-- First version
+...and contribute upstream by working in `$HOME/.antigen/bundles/aubreypwd/zsh-plugin-my-opts`.
